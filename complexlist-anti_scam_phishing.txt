@@ -1,0 +1,34 @@
+! ---------------------------------------------------------!
+! Title: Complexlist Scam & Phishing Filter
+! Last modified: %timestamp%
+! Expires: 1 hour
+! ---------------------------------------------------------!
+! Description: Anti Scam and Phishing
+! Homepage: https://github.com/xeryac/Complexlist
+! ---------------------------------------------------------!
+
+||myelherwallel.com^
+||xn--myetherwallt-leb.com^
+||myetherwallet.cam^
+||coindash.ru^
+||etherswap.org^
+||coin-wallet.info^
+||myetherwallet.top^
+||xn--mytherwallet-fvb.com^
+||my-etherwallet.com^
+||mvetherwallet.com^
+||myethewallet.net^
+||myetherwallet.com.am^
+||my-ether-wallet.com^
+||myetherwallet.com.gl^
+||myelherwallet.com^
+||my-etherwallet.ch^
+||myetherwallet.com.ht^
+||myetherwallet.ac^
+||my-etherwallet.in^
+||coindash.ml^
+||myetherwallewt.com^
+||myethwallet.net^
+||my-ethwallet.com^
+||myetherwaliiet.com^
+||myetherwallel.com^

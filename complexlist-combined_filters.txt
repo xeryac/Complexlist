@@ -1,0 +1,10 @@
+! ---------------------------------------------------------!
+! Title: Complexlist
+! Last modified: %timestamp%
+! Expires: 1 hour
+! ---------------------------------------------------------!
+! Description: 
+! Homepage: https://github.com/xeryac/Complexlist
+! ---------------------------------------------------------!
+
+!#include complexlist-anti_scam_phishing.txt
